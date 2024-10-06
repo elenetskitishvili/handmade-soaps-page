@@ -5,7 +5,7 @@ function Profile() {
   const user = {
     image: "/images/user.jpg",
     name: "Elene",
-    surname: "skitishvili",
+    surname: "Tskitishvili",
     email: "elene.tskitishvili504@gmail.com",
   };
 
